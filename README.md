@@ -12,8 +12,8 @@ networks linking compounds to gene modules.
 
 If you use this code or these results, please cite:
 
-> Achebouche R., Taboureau O. *Assessment of chemical risk factors for breast cancer
-> based on gene expression profiles.* Scientific Reports, 2025.
+> Achebouche R., Taboureau O. *Assessment of chemical risk factor for breast cancer
+> based on gene expression profiles.* Scientific Reports **15**, 43983 (2025).
 > doi:[10.1038/s41598-025-27732-0](https://doi.org/10.1038/s41598-025-27732-0)
 
 Throughout the code and the tables, **MC** denotes mammary carcinogens and **SMC**

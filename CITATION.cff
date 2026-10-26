@@ -17,12 +17,14 @@ license: MIT
 type: software
 preferred-citation:
   type: article
-  title: "Assessment of chemical risk factors for breast cancer based on gene expression profiles"
+  title: "Assessment of chemical risk factor for breast cancer based on gene expression profiles"
   authors:
     - family-names: Achebouche
       given-names: Rayane
     - family-names: Taboureau
       given-names: Olivier
   journal: "Scientific Reports"
+  volume: 15
+  number: 43983
   year: 2025
   doi: 10.1038/s41598-025-27732-0
