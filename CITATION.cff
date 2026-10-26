@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article below."
+title: "Chemical risk factors for breast cancer from gene expression profiles"
+abstract: >-
+  Code and results underlying the study ranking chemicals as candidate breast
+  cancer risk factors by comparing their transcriptional footprint in MCF7
+  (LINCS/CMap L1000) with the deregulation observed between TCGA-BRCA tumours
+  and GTEx normal breast tissue.
+authors:
+  - family-names: Achebouche
+    given-names: Rayane
+    affiliation: "Université Paris Cité, CNRS, INSERM U1133, Paris, France"
+  - family-names: Taboureau
+    given-names: Olivier
+    affiliation: "Université Paris Cité, CNRS, INSERM U1133, Paris, France"
+license: MIT
+type: software
+preferred-citation:
+  type: article
+  title: "Assessment of chemical risk factors for breast cancer based on gene expression profiles"
+  authors:
+    - family-names: Achebouche
+      given-names: Rayane
+    - family-names: Taboureau
+      given-names: Olivier
+  journal: "Scientific Reports"
+  year: 2025
+  doi: 10.1038/s41598-025-27732-0

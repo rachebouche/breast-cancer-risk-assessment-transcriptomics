@@ -1,0 +1,33 @@
+# --- Large data, not tracked (see data/README.md) ---
+# Raw and derived LINCS matrices (0.5 to 5 GB each)
+data/external/L1000/*.gctx
+data/external/L1000/L1000_MCF7_*.csv
+# TCGA/GTEx expression matrices and clinical metadata (download from UCSC Xena)
+data/external/TCGA/DGEA_Protocol/*ExpressionProfiles_GTEX-TCGA.csv
+data/external/TCGA/DGEA_Protocol/*clinicalMatrix*
+# Per-tumour differential expression results (1,092 files, 2.2 GB)
+data/external/DGE_results_indiv/*
+!data/external/DGE_results_indiv/.gitkeep
+# Serialised PyWGCNA objects (several GB) and the VST input matrix
+data/external/wgcna/*
+!data/external/wgcna/.gitkeep
+
+# Internal working notes, not for publication
+REPRODUCTION.md
+NOTES-INTERNES.md
+
+# --- Python ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# --- R ---
+.Rhistory
+.RData
+.Rproj.user/
+
+# --- OS / editor cruft ---
+.DS_Store
+*.swp
+.~lock.*#

@@ -1,0 +1,19 @@
+# Python dependencies of the analysis notebooks, without version constraints.
+#
+# For a reproducible install, use requirements-verified.txt instead: it pins the
+# combination the notebooks were verified to run on end to end.
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn      # cosine_similarity (analyses 05)
+umap-learn        # UMAP of the tissue samples (analyses 04)
+gseapy            # over-representation analysis, KEGG and GO (analyses 03, 04)
+pubchempy         # compound names from InChIKey, only for keys not already frozen
+                  # in data/chemicals/compound_names.csv (analyses 05)
+cmapPy            # reading the LINCS .gctx matrices (analyses 02)
+pydeseq2          # variance-stabilising transformation before WGCNA (analyses 06)
+anndata           # expression container for pydeseq2 (analyses 06)
+PyWGCNA           # co-expression modules (analyses 06)
+openpyxl          # reading the supplementary .xlsx tables

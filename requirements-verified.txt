@@ -1,0 +1,23 @@
+# The combination the notebooks were verified to run on end to end, on
+# Python 3.10. Installing this gives a reproducible environment:
+#
+#     pip install -r requirements-verified.txt
+
+pandas==2.2.2
+numpy==2.2.6
+matplotlib==3.10.3
+seaborn==0.13.2
+scikit-learn==1.7.1
+umap-learn==0.5.12
+gseapy==1.1.9
+pubchempy==1.0.5
+pydeseq2==0.5.2
+anndata==0.11.4
+PyWGCNA==2.2.1
+openpyxl==3.1.5
+
+# cmapPy is only needed by analyses/02 (reading the raw LINCS .gctx) and was not
+# exercised during verification, since the extracted signatures were already
+# available. Its last release targets older NumPy, so install it in a separate
+# environment if you need to regenerate the signatures from the .gctx.
+# cmapPy

@@ -1,0 +1,120 @@
+---
+title: "Harmonising TCGA-BRCA and GTEx breast expression"
+author: "Rayane Achebouche"
+date: "2024-04-08"
+output: html_document
+---
+
+Downloads the UCSC Xena *TCGA TARGET GTEx* recompute cohort, selects GTEx normal
+breast samples and TCGA-BRCA primary tumours, restricts to protein-coding genes
+and writes the harmonised count matrix `ExpressionProfiles_GTEX-TCGA.csv`, the
+input to `DGEA_analysis-edgeR.Rmd`.
+
+Several download chunks are commented out on purpose: the files are large and
+only need fetching once. Uncomment them on a first run.
+
+```{r setup}
+# All paths below are relative to the data directory, not to this file.
+knitr::opts_knit$set(root.dir = "../../data/external/TCGA/DGEA_Protocol")
+```
+
+```{r}
+# Importing libraries
+library("UCSCXenaTools")
+library("data.table")
+library("R.utils")
+library("dplyr")
+```
+```{r}
+data(XenaData)
+write.csv(XenaData, "00_tblXenaHubInfo.csv")
+```
+
+```{r download-expression}
+#### RSEM expected counts provided by the UCSC Toil Recompute Compendium. ####
+#GeneExpectedCnt_toil = XenaGenerate(subset = XenaHostNames == "toilHub") %>%
+ #XenaFilter(filterCohorts = "TCGA TARGET GTEx") %>%
+ #XenaFilter(filterDatasets = "TcgaTargetGtex_gene_expected_count");
+#XenaQuery(GeneExpectedCnt_toil) %>%
+#XenaDownload(destdir = "./")
+```
+
+```{r}
+#### TCGA Clinical Data ####
+paraCohort = "TCGA Breast Cancer"; #Selecting the Breast Cancer cohort.
+paraDatasets = "TCGA.BRCA.sampleMap/BRCA_clinicalMatrix"; #Selecting the Breast Cancer clinical matrix.
+Clin_TCGA = XenaGenerate(subset = XenaHostNames == "tcgaHub") %>%
+ XenaFilter(filterCohorts = paraCohort) %>%
+ XenaFilter(filterDatasets = paraDatasets);
+XenaQuery(Clin_TCGA) %>%
+ XenaDownload(destdir = "./")
+```
+
+```{r}
+#### TCGA SURVIVAL DATA ####
+#Surv_TCGA = XenaGenerate(subset = XenaHostNames == "toilHub") %>%
+ #XenaFilter(filterCohorts = "TCGA TARGET GTEx") %>%
+ #XenaFilter(filterDatasets = "TCGA_survival_data");
+#XenaQuery(Surv_TCGA) %>%
+ #XenaDownload(destdir = "./")
+```
+
+```{r}
+#### GTEx Phenotype Data ####
+#Pheno_GTEx = XenaGenerate(subset = XenaHostNames == "toilHub") %>%
+ #XenaFilter(filterCohorts = "TCGA TARGET GTEx") %>%
+ #XenaFilter(filterDatasets = "TcgaTargetGTEX_phenotype");
+#XenaQuery(Pheno_GTEx) %>%
+ #XenaDownload(destdir = "./")
+```
+
+```{r}
+#### Retrieve IDs for GTEx normal samples of desired tissue type(s) ####
+filterGTEx01 = fread("TcgaTargetGTEX_phenotype.txt.gz");
+names(filterGTEx01) = gsub("\\_", "", names(filterGTEx01));
+paraStudy = "GTEX"; #Setting "GTEx" as the study of interest.
+paraPrimarySiteGTEx = "Breast"; #Setting "Breast" as the primary site of interest.
+paraPrimaryTissueGTEx = "^Breast"; #Setting "Breast" as the primary tissue of interest.
+filterGTEx02 = subset(filterGTEx01,
+ study == paraStudy &
+ primarysite == paraPrimarySiteGTEx &
+ grepl(paraPrimaryTissueGTEx, filterGTEx01$`primary disease or tissue`))
+```
+
+```{r}
+#### Retrieve IDs for TCGA primary tumor samples of desired histological type(s) ####
+filterTCGA01 = fread("TCGA.BRCA.sampleMAP_BRCA_clinicalMatrix");
+names(filterTCGA01) = gsub("\\_", "", names(filterTCGA01));
+paraSampleType = "Primary Tumor"; #Setting "Primary Tumor" as the sample type of interest.
+paraPrimarySiteTCGA = "Breast"; #Setting "Breast" as the primary site of interest.
+#paraHistologicalType = "Breast Adenocarcinoma"; #Setting "Breast Adenocarcinoma" as the histological type of interest.
+paraPrimaryDisease = "breast invasive carcinoma"; #Setting "Breast Adenocarcinoma" as the primary disease type of interest.
+filterTCGA02 = subset(filterTCGA01,
+sampletype == paraSampleType &
+primarysite == paraPrimarySiteTCGA &
+grepl(paraPrimaryDisease, filterTCGA01$primarydisease))
+```
+
+
+```{r}
+#### Merge GTEx and TCGA sample lists. Then pull expression profiles from .gz file by IDs on merged sample list ####
+filterExpr = c(filterGTEx02$sample, filterTCGA02$sampleID, "sample");
+ExprSubsetBySamp = fread("TcgaTargetGtex_gene_expected_count.gz",
+select = filterExpr)
+```
+
+```{r}
+#### Subset expression data to include only protein coding genes ####
+probemap = fread("probeMap_gencode.v23.annotation.gene.probemap", select = c(1, 2));
+exprALL = merge(probemap, ExprSubsetBySamp, by.x = "id", by.y = "sample");
+genesPC = fread("zz_gene.protein.coding.csv");
+exprPC = subset(exprALL, gene %in% genesPC$Gene_Symbol);
+#Remove duplicate gene symbols.
+exprFinal = exprPC[!(duplicated(exprPC$gene) |
+duplicated(exprPC$gene, fromLast = TRUE)), ]
+```
+
+```{r}
+#### Save Expression Profile Final Table ####
+write.csv(exprFinal, "ExpressionProfiles_GTEX-TCGA.csv")
+```

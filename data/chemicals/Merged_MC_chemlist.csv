@@ -1,0 +1,272 @@
+CAS,SMILES,CHEMICAL_NAME,SOURCE_TOX,IUPAC_NAME,INCHIKEY
+100-42-5,C=CC1=CC=CC=C1,Styrene,Borrel,styrene,PPBRXRYQALVLMV-UHFFFAOYSA-N
+101-14-4,NC1=C(Cl)C=C(CC2=CC(Cl)=C(N)C=C2)C=C1,"4,4'-Methylenebis(2-chloroaniline)",Borrel,4-[(4-amino-3-chlorophenyl)methyl]-2-chloroaniline,IBOFVQJTBBUKMU-UHFFFAOYSA-N
+1010-61-3,C1=CC=C2C(=C1)/C(=N/O)/C=CN2O.Cl,4-Hydroxyaminoquinoline 1-oxide hydrochloride,Borrel,(NE)-N-(1-hydroxyquinolin-4-ylidene)hydroxylamine;hydrochloride,QSXDAZCGWHRQME-VRTOBVRTSA-N
+105650-23-5,CN1C(N)=NC2=C1C=C(C=N2)C1=CC=CC=C1,"2-Amino-1-methyl-6-phenylimidazo [4,5-b]pyridine",Borrel,"1-methyl-6-phenylimidazo[4,5-b]pyridin-2-amine",UQVKZNNCIHJZLS-UHFFFAOYSA-N
+10589-74-9,CCCCCN(N=O)C(N)=O,1-Amyl-1-nitrosourea,Borrel,1-nitroso-1-pentylurea,YYTNAQDGJQPZFU-UHFFFAOYSA-N
+106-50-3,NC1=CC=C(N)C=C1,"1,4-Benzenediamine",Borrel,"benzene-1,4-diamine",CBCKQZAAMUWICA-UHFFFAOYSA-N
+106-91-2,CC(=C)C(=O)OCC1CO1,Glycidyl methacrylate,Borrel,oxiran-2-ylmethyl 2-methylprop-2-enoate,VOZRXNHHFUQHIL-UHFFFAOYSA-N
+106-93-4,BrCCBr,"1,2-Dibromoethane",Borrel,"1,2-dibromoethane",PAAZPARNPHGIKF-UHFFFAOYSA-N
+106-99-0,C=CC=C,"1,3-Butadiene",Borrel,"buta-1,3-diene",KAKZBPTYRLMSJV-UHFFFAOYSA-N
+107-06-2,ClCCCl,"1,2-Dichloroethane",Borrel,"1,2-dichloroethane",WSLDOOZREJYCGB-UHFFFAOYSA-N
+107-13-1,C=CC#N,Acrylonitrile,Borrel,prop-2-enenitrile,NLHHRLWOUZZQLW-UHFFFAOYSA-N
+110559-84-7,CCN(N=O)C(=O)NCC(C)=O,1-Ethylnitroso-3-(2-oxopropyl)urea,Borrel,1-ethyl-1-nitroso-3-(2-oxopropyl)urea,FMKBEVQUKYPUEJ-UHFFFAOYSA-N
+11097-69-1, ,Aroclor 1254,Borrel,"1,2,3-trichloro-4-(2,3-dichlorophenyl)benzene",AUGNBQPSMWGAJE-UHFFFAOYSA-N
+1120-71-4,O=S1(=O)CCCO1,"1,3-Propane sultone",Borrel,"oxathiolane 2,2-dioxide",FSSPGSAQUIYDCN-UHFFFAOYSA-N
+113-38-2,CCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(OC(=O)CC)=CC=C4[C@H]3CC[C@]12C,Estradiol dipropionate,Borrel,"[(8R,9S,13S,14S,17S)-13-methyl-3-propanoyloxy-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthren-17-yl] propanoate",JQIYNMYZKRGDFK-RUFWAXPRSA-N
+118745-11-2,C1=CC=C(C=C1)/C=C/C2=CC=C(C=C2)N(C=O)O,"N-Formyl-N-hydroxy-4-aminostilbene, (E)-",Borrel,N-hydroxy-N-[4-[(E)-2-phenylethenyl]phenyl]formamide,ZRCLQGADDKPGRP-VOTSOKGWSA-N
+118745-12-3,CCC(=O)N(O)C1=CC=C(\C=C\C2=CC=CC=C2)C=C1,N-Hydroxy-N-propionyl-trans-4-aminostilbene,Borrel,N-hydroxy-N-[4-[(E)-2-phenylethenyl]phenyl]propanamide,FYHCYBZRXZCUPO-CMDGGOBGSA-N
+119-90-4,COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N,C.I. Disperse Black 6,Borrel,4-(4-amino-3-methoxyphenyl)-2-methoxyaniline,JRBJSXQPQWSCCF-UHFFFAOYSA-N
+119-93-7,CC1=CC(=CC=C1N)C1=CC=C(N)C(C)=C1,"3,3'-Dimethylbenzidine",Borrel,4-(4-amino-3-methylphenyl)-2-methylaniline,NUIURNJTPRWVAP-UHFFFAOYSA-N
+121-14-2,CC1=C(C=C(C=C1)[N+]([O-])=O)[N+]([O-])=O,"2,4-Dinitrotoluene",Borrel,"1-methyl-2,4-dinitrobenzene",RMBFBMJGBANMMK-UHFFFAOYSA-N
+121-66-4,NC1=NC=C(S1)[N+]([O-])=O,2-Amino-5-nitrothiazole,Borrel,"5-nitro-1,3-thiazol-2-amine",MIHADVKEHAFNPG-UHFFFAOYSA-N
+121-75-5,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,Malathion,Borrel,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,JXSJBGJIGXNWCI-UHFFFAOYSA-N
+122-34-9,CCNC1=NC(NCC)=NC(Cl)=N1,Simazine,Borrel,"6-chloro-2-N,4-N-diethyl-1,3,5-triazine-2,4-diamine",ODCWYMIRDDJXKW-UHFFFAOYSA-N
+122-66-7,N(NC1=CC=CC=C1)C1=CC=CC=C1,"1,2-Diphenylhydrazine",Borrel,"1,2-diphenylhydrazine",YBQZXXMEJHZYMB-UHFFFAOYSA-N
+123-91-1,C1COCCO1,"1,4-Dioxane",Borrel,"1,4-dioxane",RYHBNJHYFVUHQT-UHFFFAOYSA-N
+126-07-8,COC1=CC(OC)=C(Cl)C2=C1C(=O)[C@]1(O2)[C@H](C)CC(=O)C=C1OC,Griseofulvin,Borrel,"(2S,5'R)-7-chloro-3',4,6-trimethoxy-5'-methylspiro[1-benzofuran-2,4'-cyclohex-2-ene]-1',3-dione",DDUHZTYCFQRHIY-RBHXEPJQSA-N
+126-99-8,ClC(=C)C=C,Chloroprene,Borrel,"2-chlorobuta-1,3-diene",YACLQRRMGMJLJV-UHFFFAOYSA-N
+127-18-4,ClC(Cl)=C(Cl)Cl,Tetrachloroethylene,Borrel,"1,1,2,2-tetrachloroethene",CYTYCFOTNPOANT-UHFFFAOYSA-N
+12789-03-6, ,Technical chlordane,Borrel,"1,3,4,7,8,9,10,10-octachlorotricyclo[5.2.1.02,6]dec-8-ene",BIWJNBZANLAXMG-UHFFFAOYSA-N
+129-73-7,CN(C)C1=CC=C(C=C1)C(C1=CC=CC=C1)C1=CC=C(C=C1)N(C)C,Leucomalachite green,Borrel,"4-[[4-(dimethylamino)phenyl]-phenylmethyl]-N,N-dimethylaniline",WZKXBGJNNCGHIC-UHFFFAOYSA-N
+132832-26-9,OC1=C(O)C2=C(C=C1)C=CC1=C3C=CC4=CC=CC=C4C3=C3OC3=C21,"anti-Benzo(a)chrysene-11,12-diol-13,14-epoxide",Borrel,"3-oxahexacyclo[13.8.0.02,4.05,14.06,11.018,23]tricosa-1,4,6(11),7,9,12,14,16,18,20,22-undecaene-7,8-diol",XIXGYVQCBZVGAV-UHFFFAOYSA-N
+133-07-3,ClC(Cl)(Cl)SN1C(=O)C2=C(C=CC=C2)C1=O,Folpet,Borrel,"2-(trichloromethylsulfanyl)isoindole-1,3-dione",HKIOYBQGHSTUDB-UHFFFAOYSA-N
+13345-61-4,CC1=C2C3=CC=CC=C3C=CC2=C(C=O)C2=CC=CC=C12,"Benz(a)anthracene-7-carboxaldehyde, 12-methyl-",Borrel,12-methylbenzo[a]anthracene-7-carbaldehyde,YSPPOTFPQWTIAE-UHFFFAOYSA-N
+13394-86-0,CC1=C(N)C=CC(=C1)C1=C(C)C=CC=C1,"2',3-Dimethyl[biphenyl]-4-amine",Borrel,2-methyl-4-(2-methylphenyl)aniline,HSQVHYANHDSFFI-UHFFFAOYSA-N
+13743-07-2,NC(=O)N(CCO)N=O,1-(2-Hydroxyethyl)-1-nitrosourea,Borrel,1-(2-hydroxyethyl)-1-nitrosourea,IVEXWRHLJIZLHF-UHFFFAOYSA-N
+138857-19-9,,"Anti-4,5-dihydroxy-6,6a-epoxy-4,5,6,6a-tetrahydrobenzo[j]fluoranthene",Borrel,,
+138857-21-3,[H][C@]12O[C@@]1([H])C1=C(C=CC3=C1C1=CC=CC4=C1C3=CC=C4)[C@H](O)[C@H]2O,"(1aR,2R,3S,11dS)-1a,2,3,11d-Tetrahydroacenaphtho[1',2':7,8]naphtho[1,2-b]oxirene-2,3-diol",Borrel,"(4S,6R,7R,8S)-5-oxahexacyclo[11.7.1.02,12.03,9.04,6.017,21]henicosa-1(20),2(12),3(9),10,13,15,17(21),18-octaene-7,8-diol",ZJBMWUSXWCQSJP-ZGXWSNOMSA-N
+139-40-2,CC(C)NC1=NC(NC(C)C)=NC(Cl)=N1,"2,4-Bis(isopropylamino)-6-chloro-1,3,5-triazine",Borrel,"6-chloro-2-N,4-N-di(propan-2-yl)-1,3,5-triazine-2,4-diamine",WJNRPILHGGKWCK-UHFFFAOYSA-N
+139-94-6,CCNC(=O)NC1=NC=C(S1)[N+]([O-])=O,Nithiazide,Borrel,"1-ethyl-3-(5-nitro-1,3-thiazol-2-yl)urea",FQSUTLQHSDLLAN-UHFFFAOYSA-N
+1420-04-8,NCCO.OC1=C(C=C(Cl)C=C1)C(=O)NC1=CC=C(C=C1Cl)[N+]([O-])=O,Clonitralid,Borrel,2-aminoethanol;5-chloro-N-(2-chloro-4-nitrophenyl)-2-hydroxybenzamide,XYCDHXSQODHSLG-UHFFFAOYSA-N
+142713-78-8,[O-]N=O.CC[NH2+]C(=O)N(CCN(C)C)N=O,"Dimethylaminoethylnitrosoethylurea, nitrite salt",Borrel,[2-(dimethylamino)ethyl-formylcarbamoyl]-ethylazanium;nitrite,BYZLOSWIISDMQY-UHFFFAOYSA-N
+148-82-3,N[C@@H](CC1=CC=C(C=C1)N(CCCl)CCCl)C(O)=O,Melphalan,Borrel,(2S)-2-amino-3-[4-[bis(2-chloroethyl)amino]phenyl]propanoic acid,SGDBTWWWUNNDEQ-LBPRGKRZSA-N
+149-17-7,COC1=C(O)C=CC(\C=N\NC(=O)C2=CC=NC=C2)=C1,Isonicotinic acid vanillylidenehydrazide,Borrel,N-[(E)-(4-hydroxy-3-methoxyphenyl)methylideneamino]pyridine-4-carboxamide,PSWOBQSIXLVPDV-CXUHLZMHSA-N
+14962-28-8,OC1=CC=C(C=C1)C1=C(Cl)C=C(Cl)C=C1Cl,"4-Hydroxy-2',4',6'-trichlorobiphenyl",Borrel,"4-(2,4,6-trichlorophenyl)phenol",LTQJFLVGNGVJCX-UHFFFAOYSA-N
+153-78-6,NC1=CC=C2C(CC3=CC=CC=C23)=C1,2-Aminofluorene,Borrel,9H-fluoren-2-amine,CFRFHWQYWJMEJN-UHFFFAOYSA-N
+153926-04-6,C1=CC=C2C(=C1)C3=CC=CC4=C3C5=C2C6=C(C=C5C=C4)[C@H]([C@@H]([C@H]7[C@@H]6O7)O)O,"Anti-dibenzo[a,l]pyrene-11,12-dihydrodiol-13,14-epoxide",Borrel,"(3R,5S,6S,7R)-4-oxaheptacyclo[11.10.2.02,8.03,5.010,24.017,25.018,23]pentacosa-1(24),2(8),9,11,13(25),14,16,18,20,22-decaene-6,7-diol",CJAMAUFDXDSQLU-QPXUXIHVSA-N
+15972-60-8,CCC1=CC=CC(CC)=C1N(COC)C(=O)CCl,Alachlor,Borrel,"2-chloro-N-(2,6-diethylphenyl)-N-(methoxymethyl)acetamide",XCSGPAVHZFQHGE-UHFFFAOYSA-N
+16170-75-5,[Na+].COC1=CC=C(C=C1)C(=O)C(Br)=CC([O-])=O,Sodium beta-4-methoxybenzoyl-beta-bromoacrylate,Borrel,sodium;(Z)-3-bromo-4-(4-methoxyphenyl)-4-oxobut-2-enoate,DVDCIQWIGOVWEX-BORNJIKYSA-M
+16301-26-1,CC\N=[N+](/[O-])CC,"Z-Ethyl-O,N,N-azoxyethane",Borrel,ethyl-ethylimino-oxidoazanium,SZOHWYCBDJPVGO-UHFFFAOYSA-N
+1694-09-3,[Na+].CCN(CC1=CC(=CC=C1)S([O-])(=O)=O)C1=CC=C(C=C1)C(C1=CC=C(C=C1)N(C)C)=C1C=CC(C=C1)=[N+](CC)CC1=CC(=CC=C1)S([O-])(=O)=O,Benzyl Violet 4B,Borrel,"sodium;3-[[4-[(4-dimethylazaniumylidenecyclohexa-2,5-dien-1-ylidene)-[4-[ethyl-[(3-sulfonatophenyl)methyl]amino]phenyl]methyl]-N-ethylanilino]methyl]benzenesulfonate",AXMCIYLNKNGNOT-UHFFFAOYSA-M
+18774-85-1,CCCCCCN(N=O)C(N)=O,N-Hexylnitrosourea,Borrel,1-hexyl-1-nitrosourea,JQPBCNVLZQUNCT-UHFFFAOYSA-N
+189-55-9,C1=CC=C2C(=C1)C=C1C=CC3=CC4=CC=CC=C4C4=CC=C2C1=C34,"Dibenzo[a,i]pyrene",Borrel,"hexacyclo[10.10.2.02,7.09,23.014,19.020,24]tetracosa-1(23),2,4,6,8,10,12,14,16,18,20(24),21-dodecaene",TUGYIJVAYAHHHM-UHFFFAOYSA-N
+189-64-0,C1=CC=C2C(=C1)C=C1C=CC3=C4C(C=CC2=C14)=CC1=CC=CC=C31,"Dibenzo[a,h]pyrene",Borrel,"hexacyclo[10.10.2.02,7.09,23.013,18.020,24]tetracosa-1(23),2,4,6,8,10,12(24),13,15,17,19,21-dodecaene",RXUSYFJGDZFVND-UHFFFAOYSA-N
+19044-88-3,CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)S(N)(=O)=O)[N+]([O-])=O,Oryzalin,Borrel,"4-(dipropylamino)-3,5-dinitrobenzenesulfonamide",UNAHYJYOSSSJHH-UHFFFAOYSA-N
+191-30-0,C1=CC=C2C(=C1)C=C1C=CC3=C4C(=CC=C3)C3=CC=CC=C3C2=C14,"Dibenzo[a,l]pyrene",Borrel,"hexacyclo[10.10.2.02,7.08,24.015,23.017,22]tetracosa-1(23),2,4,6,8,10,12(24),13,15,17,19,21-dodecaene",JNTHRSHGARDABO-UHFFFAOYSA-N
+1912-24-9,CCNC1=NC(NC(C)C)=NC(Cl)=N1,Atrazine,Borrel,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",MXWJVTOOROXGIU-UHFFFAOYSA-N
+1937-37-7,[Na+].[Na+].NC1=CC(N)=C(C=C1)N=NC1=CC=C(C=C1)C1=CC=C(C=C1)N=NC1=C(C=C2C=C(C(N=NC3=CC=CC=C3)=C(O)C2=C1N)S([O-])(=O)=O)S([O-])(=O)=O,C.I. Direct Black 38,Borrel,"disodium;4-amino-3-[[4-[4-[(2,4-diaminophenyl)diazenyl]phenyl]phenyl]diazenyl]-5-hydroxy-6-phenyldiazenylnaphthalene-2,7-disulfonate",XRPLBRIHZGVJIC-UHFFFAOYSA-L
+20325-40-0,Cl.Cl.COC1=CC(=CC=C1N)C1=CC=C(N)C(OC)=C1,C.I. Disperse Black 6 dihydrochloride,Borrel,4-(4-amino-3-methoxyphenyl)-2-methoxyaniline;dihydrochloride,UXTIAFYTYOEQHV-UHFFFAOYSA-N
+20830-81-3,COC1=C2C(=O)C3=C(O)C4=C(C[C@](O)(C[C@@H]4O[C@H]4C[C@H](N)[C@H](O)[C@H](C)O4)C(C)=O)C(O)=C3C(=O)C2=CC=C1,Daunorubicin,Borrel,"(7S,9S)-9-acetyl-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione",STQGQHZAVUOBTE-VGBVRHCVSA-N
+2113-61-3,Cl.NC1=CC=C(C=C1)C1=CC=CC=C1,4-Biphenylamine hydrochloride,Borrel,4-phenylaniline;hydrochloride,GUHXYHYUBFCYGJ-UHFFFAOYSA-N
+21638-36-8,CC1CN(\N=C\C2=CC=C(O2)[N+]([O-])=O)C(=O)N1,4-Methyl-1-[(5-nitrofurfurylidene)amino]-2-imidazolidinone,Borrel,4-methyl-1-[(E)-(5-nitrofuran-2-yl)methylideneamino]imidazolidin-2-one,BJUPUKIYTMVLCW-ONNFQVAWSA-N
+21725-46-2,CCNC1=NC(NC(C)(C)C#N)=NC(Cl)=N1,Cyanazine,Borrel,"2-[[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino]-2-methylpropanenitrile",MZZBPDKVEFVLFF-UHFFFAOYSA-N
+21739-91-3,[Na+].COC1=CC=C(C=C1)C(=O)C(\Br)=C/C([O-])=O,Cytembena,Borrel,sodium;(E)-3-bromo-4-(4-methoxyphenyl)-4-oxobut-2-enoate,DVDCIQWIGOVWEX-MLBSPLJJSA-M
+21928-82-5,CN(N=O)C1=NC=NC2=C1N=CN2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,(N-6)-(Methylnitroso)adenosine,Borrel,N-methyl-N-(7H-purin-6-yl)nitrous amide,HTWGDSKVENTDTB-UHFFFAOYSA-N
+22398-80-7,[InH3].P#[In],Indium phosphide,Borrel,indiganylidynephosphane,GPXJNWSHGFTCBW-UHFFFAOYSA-N
+23214-92-8,COC1=C2C(=O)C3=C(O)C4=C(C[C@](O)(C[C@@H]4O[C@H]4C[C@H](N)[C@H](O)[C@H](C)O4)C(=O)CO)C(O)=C3C(=O)C2=CC=C1,Doxorubicin,Borrel,"(7S,9S)-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-9-(2-hydroxyacetyl)-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione",AOJJSUZBOXZQNB-TZSSRYMLSA-N
+2393-53-5,CC12CCC3C(CCC4=CC(OC(=O)C5=CC=CC=C5)=CC=C34)C1CCC2=O,"17-Oxoestra-1(10),2,4-trien-3-yl benzoate",Borrel,"[(8R,9S,13S,14S)-13-methyl-17-oxo-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-yl] benzoate",HKUKRSLIEVXDMS-APDHKMKFSA-N
+2425-06-1,C1C=CCC2C1C(=O)N(C2=O)SC(C(Cl)Cl)(Cl)Cl,Captafol,Borrel,"2-(1,1,2,2-tetrachloroethylsulfanyl)-3a,4,7,7a-tetrahydroisoindole-1,3-dione",JHRWWRDRBPCWTF-UHFFFAOYSA-N
+24554-26-5,[O-][N+](=O)C1=CC=C(O1)C1=CSC(NC=O)=N1,N-(4-(5-Nitro-2-furyl)-2-thiazolyl)formamide,Borrel,"N-[4-(5-nitrofuran-2-yl)-1,3-thiazol-2-yl]formamide",ZQBWQLJJMGJREB-UHFFFAOYSA-N
+2593-15-9,CCOC1=NC(=NS1)C(Cl)(Cl)Cl,Etridiazole,Borrel,"5-ethoxy-3-(trichloromethyl)-1,2,4-thiadiazole",KQTVWCSONPJJPE-UHFFFAOYSA-N
+26049-68-3,NNC1=NC(=CS1)C1=CC=C(O1)[N+]([O-])=O,2-Hydrazino-4-(5-nitro-2-furyl)thiazole,Borrel,"[4-(5-nitrofuran-2-yl)-1,3-thiazol-2-yl]hydrazine",KNRMJISYMHRPTH-UHFFFAOYSA-N
+26049-69-4,CN(C)NC1=NC(=CS1)C1=CC=C(O1)[N+]([O-])=O,"2-(2,2-Dimethylhydrazino)-4-(5-nitro-2-furyl)thiazole",Borrel,"1,1-dimethyl-2-[4-(5-nitrofuran-2-yl)-1,3-thiazol-2-yl]hydrazine",QXSIYYQGSPCIHN-UHFFFAOYSA-N
+26049-70-7,NNC1=NC(=CS1)C1=CC=C(C=C1)[N+]([O-])=O,2-Hydrazino-4-(4-nitrophenyl)thiazole,Borrel,"[4-(4-nitrophenyl)-1,3-thiazol-2-yl]hydrazine",ZOJPXCPZDSRIKP-UHFFFAOYSA-N
+26049-71-8,NNC1=NC(=CS1)C1=CC=C(N)C=C1,2-Hydrazino-4-(4-aminophenyl) thiazole,Borrel,"4-(2-hydrazinyl-1,3-thiazol-4-yl)aniline",AKZHPJMVGQRYGX-UHFFFAOYSA-N
+26471-62-5,"C*.O=C=NC1=CC(=CC=C1)N=C=O |c:6,8,t:4,lp:2:2,4:1,11:1,13:2,m:1:9.8.6|",Toluene diisocyanate,Borrel,"2,4-diisocyanato-1-methylbenzene",DVKJHBMWWAPEIU-UHFFFAOYSA-N
+28754-68-9,NC1=NC(\C=C\C2=CC=C(O2)[N+]([O-])=O)=NO1,"trans-5-Amino-3[2-(5-nitro-2-furyl)vinyl]-1,2,4-oxadiazole",Borrel,"3-[(E)-2-(5-nitrofuran-2-yl)ethenyl]-1,2,4-oxadiazol-5-amine",RMZNNIOKNRDECR-HNQUOIGGSA-N
+297-76-7,CC(=O)O[C@H]1CC[C@@H]2[C@H]3CC[C@@]4(C)[C@@H](CC[C@@]4(OC(C)=O)C#C)[C@@H]3CCC2=C1,Ethynodiol diacetate,Borrel,"[(3S,8R,9S,10R,13S,14S,17R)-17-acetyloxy-17-ethynyl-13-methyl-2,3,6,7,8,9,10,11,12,14,15,16-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl] acetate",ONKUMRGIYFNPJW-KIEAKMPYSA-N
+302-01-2,NN,Hydrazine,Borrel,hydrazine,OAKJQQAXSVQMHS-UHFFFAOYSA-N
+302-15-8,CNN.OS(O)(=O)=O,Methylhydrazine sulfate,Borrel,methylhydrazine;sulfuric acid,KJDJPXUIZYHXEZ-UHFFFAOYSA-N
+302-22-7,CC(=O)O[C@@]1(CC[C@H]2[C@@H]3C=C(Cl)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C)C(C)=O,Chlormadinone acetate,Borrel,"[(8R,9S,10R,13S,14S,17R)-17-acetyl-6-chloro-10,13-dimethyl-3-oxo-2,8,9,11,12,14,15,16-octahydro-1H-cyclopenta[a]phenanthren-17-yl] acetate",QMBJSIBWORFWQT-DFXBJWIESA-N
+303-47-9,C[C@@H]1CC2=C(C(=O)O1)C(O)=C(C=C2Cl)C(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O,Ochratoxin A,Borrel,"(2S)-2-[[(3R)-5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydroisochromene-7-carbonyl]amino]-3-phenylpropanoic acid",RWQKHEORZBHNRI-BMIGLBTASA-N
+3031-51-4,Cl.[O-][N+](=O)C1=CC=C(O1)C=NN1C[C@H](CN2CCOCC2)OC1=O,(S)-Furaltadone hydrochloride,Borrel,"5-(morpholin-4-ylmethyl)-3-[(E)-(5-nitrofuran-2-yl)methylideneamino]-1,3-oxazolidin-2-one;hydrochloride",PPSVFZXMDMUIGB-FJUODKGNSA-N
+305-03-3,OC(=O)CCCC1=CC=C(C=C1)N(CCCl)CCCl,Chlorambucil,Borrel,4-[4-[bis(2-chloroethyl)amino]phenyl]butanoic acid,JCKYGMPEJWAADB-UHFFFAOYSA-N
+3096-50-2,CC(=O)NC1=CC=C2C(=C1)C(=O)C1=C2C=CC=C1,N-(9-Oxo-2-fluorenyl)acetamide,Borrel,N-(9-oxofluoren-2-yl)acetamide,PYGNVSDRIIPHQP-UHFFFAOYSA-N
+320-67-2,NC1=NC(=O)N(C=N1)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,5-Azacytidine,Borrel,"4-amino-1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,3,5-triazin-2-one",NMUSYJAQQFHJEW-KVTDHHQDSA-N
+32852-21-4,CC1=CSC(NNC=O)=N1,Formic acid 2-(4-methyl-2-thiazolyl)hydrazide,Borrel,"N-[(4-methyl-1,3-thiazol-2-yl)amino]formamide",YVPLYHWVALRLFV-UHFFFAOYSA-N
+3296-90-0,OCC(CO)(CBr)CBr,Pentaerythritol dibromide,Borrel,"2,2-bis(bromomethyl)propane-1,3-diol",CHUGKEQJSLOLHL-UHFFFAOYSA-N
+330-54-1,CN(C)C(=O)NC1=CC(Cl)=C(Cl)C=C1,Diuron,Borrel,"3-(3,4-dichlorophenyl)-1,1-dimethylurea",XMTQQYYKAHVGBJ-UHFFFAOYSA-N
+33372-39-3,OCCN(CCO)C1=NC(=NC2=CC=CC=C12)C1=CC=C(S1)[N+]([O-])=O,4-Bis(2-hydroxyethyl)amino-2-(5-nitro-2-thienyl)quinazoline,Borrel,2-[2-hydroxyethyl-[2-(5-nitrothiophen-2-yl)quinazolin-4-yl]amino]ethanol,QPDGFLZXRKDMRL-UHFFFAOYSA-N
+3546-10-9,CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@H](CC[C@]4(C)[C@H]3CC[C@]12C)OC(=O)CC1=CC=C(C=C1)N(CCCl)CCCl,Phenesterin,Borrel,"[(3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-[(2R)-6-methylheptan-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl] 2-[4-[bis(2-chloroethyl)amino]phenyl]acetate",SPJCRMJCFSJKDE-ZWBUGVOYSA-N
+3570-75-0,[O-][N+](=O)C1=CC=C(O1)C1=CSC(NNC=O)=N1,Formic acid 2-[4-(5-nitro-2-furyl)-2-thiazolyl]hydrazide,Borrel,"N-[[4-(5-nitrofuran-2-yl)-1,3-thiazol-2-yl]amino]formamide",DUWYZHLZDVCZIO-UHFFFAOYSA-N
+3604-87-3,C[C@H]([C@H](O)CCC(C)(C)O)[C@H]1CC[C@@]2(O)C3=CC(=O)[C@@H]4C[C@@H](O)[C@@H](O)C[C@]4(C)[C@H]3CC[C@]12C,alpha-Ecdysone,Borrel,"(2S,3R,5R,9R,10R,13R,14S,17R)-17-[(2S,3R)-3,6-dihydroxy-6-methylheptan-2-yl]-2,3,14-trihydroxy-10,13-dimethyl-2,3,4,5,9,11,12,15,16,17-decahydro-1H-cyclopenta[a]phenanthren-6-one",UPEZCKBFRMILAV-JMZLNJERSA-N
+363-17-7,FC(F)(F)C(=O)NC1=CC2=C(C=C1)C1=CC=CC=C1C2,"N-(2-Fluorenyl)-2,2,2-trifluoroacetamide",Borrel,"N-(9H-fluoren-2-yl)-2,2,2-trifluoroacetamide",XPHPBNGAXWJHHP-UHFFFAOYSA-N
+366-70-1,Cl.CNNCC1=CC=C(C=C1)C(=O)NC(C)C,Procarbazine hydrochloride,Borrel,4-[(2-methylhydrazinyl)methyl]-N-propan-2-ylbenzamide;hydrochloride,DERJYEZSLHIUKF-UHFFFAOYSA-N
+3688-53-7,NC(=O)C(=C/C1=CC=C(O1)[N+]([O-])=O)\C1=CC=CO1,AF-2,Borrel,(Z)-2-(furan-2-yl)-3-(5-nitrofuran-2-yl)prop-2-enamide,LYAHJFZLDZDIOH-VURMDHGXSA-N
+3775-55-1,NC1=NN=C(O1)C1=CC=C(O1)[N+]([O-])=O,"2-Amino-5-(5-nitro-2-furyl)-1,3,4-oxadiazole",Borrel,"5-(5-nitrofuran-2-yl)-1,3,4-oxadiazol-2-amine",VTWQUFUBSCXPOW-UHFFFAOYSA-N
+3778-73-2,ClCCNP1(=O)OCCCN1CCCl,Ifosfamide,Borrel,"N,3-bis(2-chloroethyl)-2-oxo-1,3,2lambda5-oxazaphosphinan-2-amine",HOMGKSMUEGBAAB-UHFFFAOYSA-N
+3795-88-8,[O-][N+](=O)C1=CC=C(O1)C=NN1C[C@H](CN2CCOCC2)OC1=O,Levofuraltadone,Borrel,"(5S)-5-(morpholin-4-ylmethyl)-3-[(5-nitrofuran-2-yl)methylideneamino]-1,3-oxazolidin-2-one",YVQVOQKFMFRVGR-NSHDSACASA-N
+39156-41-7,OS(O)(=O)=O.COC1=C(N)C=C(N)C=C1,C.I. Oxidation Base 12A,Borrel,"4-methoxybenzene-1,3-diamine;sulfuric acid",FDJQHYWUHGBBTO-UHFFFAOYSA-N
+4075-79-0,CC(=O)NC1=CC=C(C=C1)C1=CC=CC=C1,4-Acetylaminobiphenyl,Borrel,N-(4-phenylphenyl)acetamide,SVLDILRDQOVJED-UHFFFAOYSA-N
+42011-48-3,[O-][N+](=O)C1=CC=C(O1)C1=CSC(NC(=O)C(F)(F)F)=N1,"2,2,2-Trifluoro-N-[4-(5-nitro-2-furyl)-2-thiazolyl]acetamide",Borrel,"2,2,2-trifluoro-N-[4-(5-nitrofuran-2-yl)-1,3-thiazol-2-yl]acetamide",GMHPROGCQPQRLG-UHFFFAOYSA-N
+42397-65-9,[O-][N+](=O)C1=CC=C2C=CC3=CC=C(C4=CC=C1C2=C34)[N+]([O-])=O,"1,8-Dinitropyrene",Borrel,"1,8-dinitropyrene",BLYXNIHKOMELAP-UHFFFAOYSA-N
+4342-03-4,CN(C)N=NC1=C(NC=N1)C(N)=O,Dacarbazine,Borrel,4-[(E)-dimethylaminodiazenyl]-1H-imidazole-5-carboxamide,FDKXTQMXEQVLRF-ZHACJKMWSA-N
+443-48-1,CC1=NC=C(N1CCO)[N+]([O-])=O,Metronidazole,Borrel,2-(2-methyl-5-nitroimidazol-1-yl)ethanol,VAOCPAMSLUNLGC-UHFFFAOYSA-N
+446-72-0,OC1=CC=C(C=C1)C1=COC2=C(C(O)=CC(O)=C2)C1=O,Genistein,Borrel,"5,7-dihydroxy-3-(4-hydroxyphenyl)chromen-4-one",TZBJGXHYKVUXJN-UHFFFAOYSA-N
+4680-78-8,[Na+].CCN(CC1=CC(=CC=C1)S([O-])(=O)=O)C1=CC=C(C=C1)C(C1=CC=CC=C1)=C1C=CC(C=C1)=[N+](CC)CC1=CC(=CC=C1)S([O-])(=O)=O,FD&C Green No. 1,Borrel,"sodium;3-[[N-ethyl-4-[[4-[ethyl-[(3-sulfonatophenyl)methyl]azaniumylidene]cyclohexa-2,5-dien-1-ylidene]-phenylmethyl]anilino]methyl]benzenesulfonate",XKTMIJODWOEBKO-UHFFFAOYSA-M
+488-41-5,O[C@H](CBr)[C@@H](O)[C@H](O)[C@H](O)CBr,Dibromomannitol,Borrel,"(2S,3S,4S,5S)-1,6-dibromohexane-2,3,4,5-tetrol",VFKZTMPDYBFSTM-KVTDHHQDSA-N
+49540-32-1,CCNC(=O)N(CC)N=O,"1,3-Diethyl-1-nitrosourea",Borrel,"1,3-diethyl-1-nitrosourea",DEWYOTJLJIGZHS-UHFFFAOYSA-N
+50-07-7,CO[C@]12[C@H]3N[C@H]3CN1C1=C([C@H]2COC(N)=O)C(=O)C(N)=C(C)C1=O,Mitomycin C,Borrel,"[(4S,6S,7R,8S)-11-amino-7-methoxy-12-methyl-10,13-dioxo-2,5-diazatetracyclo[7.4.0.02,7.04,6]trideca-1(9),11-dien-8-yl]methyl carbamate",NWIBSHFKIJFRCO-WUDYKRTCSA-N
+50-18-0,ClCCN(CCCl)P1(=O)NCCCO1,Cyclophosphamide,Borrel,"N,N-bis(2-chloroethyl)-2-oxo-1,3,2lambda5-oxazaphosphinan-2-amine",CMSMOCZEIVJLDB-UHFFFAOYSA-N
+50-27-1,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1C[C@@H](O)[C@@H]2O,Estriol,Borrel,"(8R,9S,13S,14S,16R,17R)-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,16,17-triol",PROQIPRRNZUXQM-ZXXIGWHRSA-N
+50-28-2,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=CC=C(O)C=C3CC[C@@]21[H],17beta-Estradiol,Borrel,"(8R,9S,13S,14S,17S)-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,17-diol",VOXZDWNPVJITMN-ZBRFXRBCSA-N
+50-32-8,C1=CC2=CC3=CC=C4C=CC=C5C=CC(=C2C=C1)C3=C45,Benzo(a)pyrene,Borrel,benzo[a]pyrene,FMMWHPNWAFZXNH-UHFFFAOYSA-N
+50-55-5,[H][C@]12C[C@@H](OC(=O)C3=CC(OC)=C(OC)C(OC)=C3)[C@H](OC)[C@@H](C(=O)OC)[C@@]1([H])C[C@@]1([H])N(CCC3=C1NC1=C3C=CC(OC)=C1)C2,Reserpine,Borrel,"methyl (1R,15S,17R,18R,19S,20S)-6,18-dimethoxy-17-(3,4,5-trimethoxybenzoyl)oxy-1,3,11,12,14,15,16,17,18,19,20,21-dodecahydroyohimban-19-carboxylate",QEVHRUUCFGRFIF-MDEJGZGSSA-N
+5036-03-3,OCCN1CCN(\N=C\C2=CC=C(O2)[N+]([O-])=O)C1=O,1-(2-Hydroxyethyl)-3-[(5-nitrofurfurylidene)amino]-2-imidazolidinone,Borrel,1-(2-hydroxyethyl)-3-[(E)-(5-nitrofuran-2-yl)methylideneamino]imidazolidin-2-one,VDDRCCQKLVNYHQ-YRNVUSSQSA-N
+51-79-6,CCOC(N)=O,Urethane,Borrel,ethyl carbamate,JOYRKODLDBILNP-UHFFFAOYSA-N
+51264-14-3,COC1=CC(NS(C)(=O)=O)=CC=C1NC1=C2C=CC=CC2=NC2=CC=CC=C12,Amsacrine,Borrel,N-[4-(acridin-9-ylamino)-3-methoxyphenyl]methanesulfonamide,XCPGHVQEEXUHNC-UHFFFAOYSA-N
+51325-35-0,CC(=O)NC1=NC(=NC(NC(C)=O)=N1)C1=CC=C(O1)[N+]([O-])=O,"N,N'-[6-(5-Nitro-2-furyl)-S-triazine-2,4-diyl]bisacetamide",Borrel,"N-[4-acetamido-6-(5-nitrofuran-2-yl)-1,3,5-triazin-2-yl]acetamide",OSFMMSIDSIQFIT-UHFFFAOYSA-N
+51630-58-1,CC(C)C(C(=O)OC(C#N)C1=CC=CC(OC2=CC=CC=C2)=C1)C1=CC=C(Cl)C=C1,Fenvalerate,Borrel,[cyano-(3-phenoxyphenyl)methyl] 2-(4-chlorophenyl)-3-methylbutanoate,NYPJDWWKZLNGGM-UHFFFAOYSA-N
+52-24-4,S=P(N1CC1)(N1CC1)N1CC1,Thiotepa,Borrel,tris(aziridin-1-yl)-sulfanylidene-lambda5-phosphane,FOCVUCIESVLUNU-UHFFFAOYSA-N
+52-76-6,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCCC=C3CC[C@@]21[H],Lynestrenol,Borrel,"(8R,9S,10R,13S,14S,17R)-17-ethynyl-13-methyl-2,3,6,7,8,9,10,11,12,14,15,16-dodecahydro-1H-cyclopenta[a]phenanthren-17-ol",YNVGQYHLRCDXFQ-XGXHKTLJSA-N
+5278-95-5,OC(=O)C(Cl)(Br)Br,Dibromochloroacetic acid,Borrel,"2,2-dibromo-2-chloroacetic acid",UCZDDMGNCJJAHK-UHFFFAOYSA-N
+53-16-7,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3,Estrone,Borrel,"(8R,9S,13S,14S)-3-hydroxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-one",DNXHEGUUPJUMQT-CBZIJGRNSA-N
+53-70-3,C1=CC2=CC=C3C=C4C(C=CC5=CC=CC=C45)=CC3=C2C=C1,"Dibenz(a,h)anthracene",Borrel,"naphtho[1,2-b]phenanthrene",LHRCREOYAASXPZ-UHFFFAOYSA-N
+53-86-1,COC1=CC2=C(C=C1)N(C(=O)C1=CC=C(Cl)C=C1)C(C)=C2CC(O)=O,1-(p-Chlorobenzoyl)-5-methoxy-2-methyl-Indole-3-acetic acid,Borrel,2-[1-(4-chlorobenzoyl)-5-methoxy-2-methylindol-3-yl]acetic acid,CGIGDMFJXJATDK-UHFFFAOYSA-N
+53-95-2,CC(=O)N(O)C1=CC2=C(C=C1)C1=CC=CC=C1C2,N-Hydroxy-2-acetylaminofluorene,Borrel,N-(9H-fluoren-2-yl)-N-hydroxyacetamide,SOKUIEGXJHVFDV-UHFFFAOYSA-N
+53-96-3,CC(=O)NC1=CC=C2C(CC3=C2C=CC=C3)=C1,2-Acetylaminofluorene,Borrel,N-(9H-fluoren-2-yl)acetamide,CZIHNRWJTSTCEX-UHFFFAOYSA-N
+531-18-0,OCN(CO)C1=NC(=NC(=N1)N(CO)CO)N(CO)CO,Hexamethylolmelamine,Borrel,"[[4,6-bis[bis(hydroxymethyl)amino]-1,3,5-triazin-2-yl]-(hydroxymethyl)amino]methanol",YGCOKJWKWLYHTG-UHFFFAOYSA-N
+531-76-0,NC(CC1=CC=C(C=C1)N(CCCl)CCCl)C(O)=O,Merphalan,Borrel,2-amino-3-[4-[bis(2-chloroethyl)amino]phenyl]propanoic acid,SGDBTWWWUNNDEQ-UHFFFAOYSA-N
+531-82-8,CC(=O)NC1=NC(=CS1)C1=CC=C(O1)[N+]([O-])=O,N-[4-(5-Nitro-2-furyl)-2-thiazolyl]acetamide,Borrel,"N-[4-(5-nitrofuran-2-yl)-1,3-thiazol-2-yl]acetamide",GYRMPDLIHUXUIG-UHFFFAOYSA-N
+531-85-1,Cl.Cl.NC1=CC=C(C=C1)C1=CC=C(N)C=C1,Benzidine dihydrochloride,Borrel,4-(4-aminophenyl)aniline;dihydrochloride,RUAXWVDEYJEWRY-UHFFFAOYSA-N
+532-27-4,ClCC(=O)C1=CC=CC=C1,2-Chloroacetophenone,Borrel,2-chloro-1-phenylethanone,IMACFCSSMIZSPP-UHFFFAOYSA-N
+53757-28-1,[O-][N+](=O)C1=CC=C(O1)C1=CSC=N1,4-(5-Nitro-2-furyl)thiazole,Borrel,"4-(5-nitrofuran-2-yl)-1,3-thiazole",NOMAVCLLBXUQRD-UHFFFAOYSA-N
+54-31-9,NS(=O)(=O)C1=C(Cl)C=C(NCC2=CC=CO2)C(=C1)C(O)=O,Furosemide,Borrel,4-chloro-2-(furan-2-ylmethylamino)-5-sulfamoylbenzoic acid,ZZUFCTLCJUWOSV-UHFFFAOYSA-N
+54-85-3,NNC(=O)C1=CC=NC=C1,Isoniazid,Borrel,pyridine-4-carbohydrazide,QRXWMOHMRWLFEY-UHFFFAOYSA-N
+5405-53-8,[O-][N+](=O)C1=CC2=C(C=C1)C1=C(C2)C=C(C=C1)[N+]([O-])=O,"9H-Fluorene, 2,7-dinitro-",Borrel,"2,7-dinitro-9H-fluorene",IHZCVUBSTYOFSJ-UHFFFAOYSA-N
+542-75-6,ClCC=CCl,"1,3-Dichloropropene",Borrel,"1,3-dichloroprop-1-ene",UOORRWUZONOOLO-UHFFFAOYSA-N
+55-18-5,CCN(CC)N=O,N-Nitrosodiethylamine,Borrel,"N,N-diethylnitrous amide",WBNQDOYYEUMPFS-UHFFFAOYSA-N
+551-92-8,CN1C(C)=NC=C1[N+]([O-])=O,"1,2-Dimethyl-5-nitroimidazole",Borrel,"1,2-dimethyl-5-nitroimidazole",IBXPYPUJPLLOIN-UHFFFAOYSA-N
+55120-47-3,CN(C)C(=O)NN=O,"N,N'-Dimethylnitrosourea",Borrel,"1,1-dimethyl-3-nitrosourea",VSMLKOBHLXAHFD-UHFFFAOYSA-N
+5522-43-0,[O-][N+](=O)C1=CC=C2C=CC3=CC=CC4=CC=C1C2=C34,1-Nitropyrene,Borrel,1-nitropyrene,ALRLPDGCPYIVHP-UHFFFAOYSA-N
+55283-68-6,CCN(CC(C)=C)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O,Ethalfluralin,Borrel,"N-ethyl-N-(2-methylprop-2-enyl)-2,6-dinitro-4-(trifluoromethyl)aniline",PTFJIKYUEPWBMS-UHFFFAOYSA-N
+55335-06-3,OC(=O)COC1=C(Cl)C=C(Cl)C(Cl)=N1,Triclopyr,Borrel,"2-(3,5,6-trichloropyridin-2-yl)oxyacetic acid",REEQLXCGVXDJSQ-UHFFFAOYSA-N
+55406-53-6,CCCCNC(=O)OCC#CI,3-Iodo-2-propynyl-N-butylcarbamate,Borrel,3-iodoprop-2-ynyl N-butylcarbamate,WYVVKGNFXHOCQV-UHFFFAOYSA-N
+555-84-0,[O-][N+](=O)C1=CC=C(O1)\C=N\N1CCNC1=O,1-[(5-Nitrofurfurylidene)amino]-2-imidazolidinone,Borrel,1-[(E)-(5-nitrofuran-2-yl)methylideneamino]imidazolidin-2-one,VSVAVMVWTLLTCH-BJMVGYQFSA-N
+556-52-5,OCC1CO1,Glycidol,Borrel,oxiran-2-ylmethanol,CTKINSOISVBQLD-UHFFFAOYSA-N
+55738-54-0,CN(C)CNC1=NN=C(O1)\C=C\C1=CC=C(O1)[N+]([O-])=O,"trans-2-[(Dimethylamino)methylimino]-5-[2-(5-nitro-2-furyl)vinyl]-1,3,4-oxadiazole",Borrel,"N,N-dimethyl-N'-[5-[(E)-2-(5-nitrofuran-2-yl)ethenyl]-1,3,4-oxadiazol-2-yl]methanimidamide",QLKWZSDBTUTCIJ-PPRDQHCASA-N
+5589-96-8,OC(=O)C(Cl)Br,Bromochloroacetic acid,Borrel,2-bromo-2-chloroacetic acid,GEHJBWKLJVFKPS-UHFFFAOYSA-N
+56-23-5,ClC(Cl)(Cl)Cl,Carbon tetrachloride,Borrel,tetrachloromethane,VZGDMQKNWNREIO-UHFFFAOYSA-N
+56-38-2,CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+]([O-])=O,Parathion,Borrel,diethoxy-(4-nitrophenoxy)-sulfanylidene-lambda5-phosphane,LCCNCVORNKJIRZ-UHFFFAOYSA-N
+56-49-5,CC1=C2CCC3=C4C=CC5=CC=CC=C5C4=CC(C=C1)=C23,3-Methylcholanthrene,Borrel,"3-methyl-1,2-dihydrobenzo[j]aceanthrylene",PPQNQXQZIWHJRB-UHFFFAOYSA-N
+56-53-1,CC\C(=C(\CC)C1=CC=C(O)C=C1)C1=CC=C(O)C=C1,Diethylstilbestrol,Borrel,4-[(E)-4-(4-hydroxyphenyl)hex-3-en-3-yl]phenol,RGLYKWWBQGJZGM-ISLYRVAYSA-N
+56654-52-5,CCCCNC(=O)N(CCCC)N=O,"1,3-Dibutyl-1-nitrosourea",Borrel,"1,3-dibutyl-1-nitrosourea",OWGLVQAUSIPFBA-UHFFFAOYSA-N
+569-61-9,Cl.NC1=CC=C(C=C1)C(C1=CC=C(N)C=C1)=C1C=CC(=N)C=C1,C.I. Basic Red 9 monohydrochloride,Borrel,"4-[(4-aminophenyl)-(4-iminocyclohexa-2,5-dien-1-ylidene)methyl]aniline;hydrochloride",JUQPZRLQQYSMEQ-UHFFFAOYSA-N
+569-64-2,[Cl-].CN(C)C1=CC=C(C=C1)C(C1=CC=CC=C1)=C1C=CC(C=C1)=[N+](C)C,Malachite green,Borrel,"[4-[[4-(dimethylamino)phenyl]-phenylmethylidene]cyclohexa-2,5-dien-1-ylidene]-dimethylazanium;chloride",FDZZZRQASAIRJF-UHFFFAOYSA-M
+56932-45-7,NC1=C(NC(CO)(CO)CO)C=CC(=C1)[N+]([O-])=O,"N1-(Tris(hydroxymethyl))methyl-4-nitro-1,2-phenylenediamine",Borrel,"2-(2-amino-4-nitroanilino)-2-(hydroxymethyl)propane-1,3-diol",PQJDXVDLMFCBQD-UHFFFAOYSA-N
+5694-00-8,NC(=O)C1CO1,Glycidamide,Borrel,oxirane-2-carboxamide,FMAZQSYXRGRESX-UHFFFAOYSA-N
+57-47-6,CNC(=O)OC1=CC2=C(C=C1)N(C)[C@H]1N(C)CC[C@@]21C,Physostigmine,Borrel,"[(3aR,8bS)-3,4,8b-trimethyl-2,3a-dihydro-1H-pyrrolo[2,3-b]indol-7-yl] N-methylcarbamate",PIJVFDBKTWXHHD-HIFRSBDPSA-N
+57-63-6,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3,17alpha-Ethinylestradiol,Borrel,"(8R,9S,13S,14S,17R)-17-ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-diol",BFPYWIDHMRZLRN-SLHNCBLASA-N
+57-83-0,[H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,Progesterone,Borrel,"(8S,9S,10R,13S,14S,17S)-17-acetyl-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one",RJKFOVLPORLFTN-LEKSSAKUSA-N
+57-97-6,CC1=C2C=CC=CC2=C(C)C2=C3C=CC=CC3=CC=C12,"7,12-Dimethylbenz(a)anthracene",Borrel,"7,12-dimethylbenzo[a]anthracene",ARSRBNBHOADGJU-UHFFFAOYSA-N
+57117-31-4,ClC1=CC2=C(C=C1Cl)C1=C(O2)C(Cl)=C(Cl)C(Cl)=C1,"2,3,4,7,8-Pentachlorodibenzofuran",Borrel,"2,3,4,7,8-pentachlorodibenzofuran",OGBQILNBLMPPDP-UHFFFAOYSA-N
+57835-92-4,[O-][N+](=O)C1=CC2=CC=CC3=CC=C4C=CC=C1C4=C23,4-Nitropyrene,Borrel,4-nitropyrene,UISKIUIWPSPSAV-UHFFFAOYSA-N
+58-22-0,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,Testosterone,Borrel,"(8R,9S,10R,13S,14S,17S)-17-hydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one",MUMGGOZAMZWBJJ-DYKIIFRCSA-N
+5834-17-3,COC1=C(N)C=C2OC3=C(C=CC=C3)C2=C1,2-Methoxy-3-aminodibenzofuran,Borrel,2-methoxydibenzofuran-3-amine,SGQVWNYSHWQNOS-UHFFFAOYSA-N
+58917-67-2,OC1C2OC2C2=C3C=CC4=CC=CC5=CC=C(C=C2C1O)C3=C45,Benzo(a)pyrene diolepoxide 1,Borrel,"(3R,5S,6S,7R)-4-oxahexacyclo[11.6.2.02,8.03,5.010,20.017,21]henicosa-1(20),2(8),9,11,13(21),14,16,18-octaene-6,7-diol",DQEPMTIXHXSFOR-WCIQWLHISA-N
+59-35-8,CC1=CC(C)=NC(=N1)C1=CC=C(O1)[N+]([O-])=O,"4,6-Dimethyl-2-(5-nitro-2-furyl) pyrimidine",Borrel,"4,6-dimethyl-2-(5-nitrofuran-2-yl)pyrimidine",RYBISXUKVTYYNN-UHFFFAOYSA-N
+59-87-0,NC(=O)NN=CC1=CC=C(O1)[N+]([O-])=O,Nitrofurazone,Borrel,[(E)-(5-nitrofuran-2-yl)methylideneamino]urea,IAIWVQXQOWNYOU-FPYGCLRLSA-N
+5915-41-3,CCNC1=NC(NC(C)(C)C)=NC(Cl)=N1,Terbutylazine,Borrel,"2-N-tert-butyl-6-chloro-4-N-ethyl-1,3,5-triazine-2,4-diamine",FZXISNSWEXTPMF-UHFFFAOYSA-N
+595-33-5,CC(=O)O[C@@]1(CC[C@H]2[C@@H]3C=C(C)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C)C(C)=O,Megestrol acetate,Borrel,"[(8R,9S,10R,13S,14S,17R)-17-acetyl-6,10,13-trimethyl-3-oxo-2,8,9,11,12,14,15,16-octahydro-1H-cyclopenta[a]phenanthren-17-yl] acetate",RQZAXGRLVPAYTJ-GQFGMJRRSA-N
+60-57-1,ClC1=C(Cl)[C@]2(Cl)[C@@H]3[C@@H]4C[C@@H]([C@H]5O[C@@H]45)[C@@H]3[C@@]1(Cl)C2(Cl)Cl,Dieldrin,Borrel,"(1R,2S,3S,6R,7R,8S,9S,11R)-3,4,5,6,13,13-hexachloro-10-oxapentacyclo[6.3.1.13,6.02,7.09,11]tridec-4-ene",DFBKLUNHFCTMDC-PICURKEMSA-N
+602-87-9,[O-][N+](=O)C1=CC=C2CCC3=CC=CC1=C23,5-Nitroacenaphthene,Borrel,"5-nitro-1,2-dihydroacenaphthylene",CUARLQDWYSRQDF-UHFFFAOYSA-N
+60391-92-6,NC(=O)N(CC(O)=O)N=O,Carboxymethylnitrosourea,Borrel,2-[carbamoyl(nitroso)amino]acetic acid,JWFMCQPAQYKFDP-UHFFFAOYSA-N
+607-57-8,[O-][N+](=O)C1=CC2=C(C=C1)C1=C(C2)C=CC=C1,2-Nitrofluorene,Borrel,2-nitro-9H-fluorene,XFOHWECQTFIEIX-UHFFFAOYSA-N
+61-57-4,[O-][N+](=O)C1=CN=C(S1)N1CCNC1=O,Niridazole,Borrel,"1-(5-nitro-1,3-thiazol-2-yl)imidazolidin-2-one",RDXLYGJSWZYTFJ-UHFFFAOYSA-N
+612-82-8,Cl.Cl.CC1=C(N)C=CC(=C1)C1=CC(C)=C(N)C=C1,"3,3'-Dimethylbenzidine dihydrochloride",Borrel,4-(4-amino-3-methylphenyl)-2-methylaniline;dihydrochloride,LUKPNZHXJRJBAN-UHFFFAOYSA-N
+613-13-8,NC1=CC=C2C=C3C=CC=CC3=CC2=C1,2-Aminoanthracene,Borrel,anthracen-2-amine,YCSBALJAGZKWFF-UHFFFAOYSA-N
+613-35-4,CC(=O)NC1=CC=C(C=C1)C1=CC=C(NC(C)=O)C=C1,"N,N'-Diacetylbenzidine",Borrel,N-[4-(4-acetamidophenyl)phenyl]acetamide,CZVHCFKUXGRABC-UHFFFAOYSA-N
+62-44-2,CCOC1=CC=C(NC(C)=O)C=C1,Phenacetin,Borrel,N-(4-ethoxyphenyl)acetamide,CPJSUEIXXCENMM-UHFFFAOYSA-N
+62-50-0,CCOS(C)(=O)=O,Ethyl methanesulfonate,Borrel,ethyl methanesulfonate,PLUBXMRUUVWRLT-UHFFFAOYSA-N
+62-73-7,COP(=O)(OC)OC=C(Cl)Cl,Dichlorvos,Borrel,"2,2-dichloroethenyl dimethyl phosphate",OEBRKCOSUFCWJD-UHFFFAOYSA-N
+62450-07-1,CC1=NC(N)=CC2=C1C1=C(N2)C=CC=C1,Trp-P-2,Borrel,"1-methyl-5H-pyrido[4,3-b]indol-3-amine",LKKMLIBUAXYLOY-UHFFFAOYSA-N
+630-20-6,ClCC(Cl)(Cl)Cl,"1,1,1,2-Tetrachloroethane",Borrel,"1,1,1,2-tetrachloroethane",QVLAWKAXOMEXPM-UHFFFAOYSA-N
+630-56-8,CCCCCC(=O)O[C@@]1(CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C)C(C)=O,"17-((1-Oxohexyl)oxy)pregn-4-ene-3,20-dione",Borrel,"[(8R,9S,10R,13S,14S,17R)-17-acetyl-10,13-dimethyl-3-oxo-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-17-yl] hexanoate",DOMWKUIIPQCAJU-LJHIYBGHSA-N
+63019-65-8,CC(=O)N(C(C)=O)C1=CC=CC2=C1CC1=C2C=CC=C1,N-1-Diacetamidofluorene,Borrel,N-acetyl-N-(9H-fluoren-1-yl)acetamide,SKNCUWLBDFPISU-UHFFFAOYSA-N
+636-21-5,Cl.CC1=CC=CC=C1N,2-Methylaniline hydrochloride,Borrel,2-methylaniline;hydrochloride,OGVXWEOZQMAAIM-UHFFFAOYSA-N
+63642-17-1,CN(N=O)C(=O)NCCC[C@H](N)C(O)=O,N-(N-Methyl-N-nitrosocarbamoyl)-l-ornithine,Borrel,(2S)-2-amino-5-[[methyl(nitroso)carbamoyl]amino]pentanoic acid,QEQYAQFYVFRGQD-YFKPBYRVSA-N
+64-17-5,CCO,Ethanol,Borrel,ethanol,LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+6459-94-5,[Na+].[Na+].CC1=CC=C(C=C1)S(=O)(=O)OC1=CC=C(C=C1)N=NC1=C(C)C=C(C=C1)C1=CC=C(N=NC2=C(O)C=CC3=CC(=CC(=C23)S([O-])(=O)=O)S([O-])(=O)=O)C(C)=C1,C.I. Acid Red 114,Borrel,"disodium;7-hydroxy-8-[[2-methyl-4-[3-methyl-4-[[4-(4-methylphenyl)sulfonyloxyphenyl]diazenyl]phenyl]phenyl]diazenyl]naphthalene-1,3-disulfonate",HNBQFKZSMFFZQY-UHFFFAOYSA-L
+66-75-1,ClCCN(CCCl)C1=CNC(=O)NC1=O,Uracil mustard,Borrel,"5-[bis(2-chloroethyl)amino]-1H-pyrimidine-2,4-dione",IDPUKCWIGUEADI-UHFFFAOYSA-N
+67-20-9,[O-][N+](=O)C1=CC=C(O1)C=NN1CC(=O)NC1=O,Nitrofurantoin,Borrel,"1-[(E)-(5-nitrofuran-2-yl)methylideneamino]imidazolidine-2,4-dione",NXFQHRVNIOXGAQ-YCRREMRBSA-N
+67651-34-7,OC1=CC=C(C=C1)C1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1,"2,3,4,5-Tetrachloro-4'-biphenylol",Borrel,"4-(2,3,4,5-tetrachlorophenyl)phenol",RESKVBRHSNTJNG-UHFFFAOYSA-N
+68-22-4,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H],Norethindrone,Borrel,"(8R,9S,10R,13S,14S,17R)-17-ethynyl-17-hydroxy-13-methyl-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",VIKNJXKGJWUCNN-XGXHKTLJSA-N
+68-23-5,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])CC(=O)CC3,Norethynodrel,Borrel,"(8R,9S,13S,14S,17R)-17-ethynyl-17-hydroxy-13-methyl-1,2,4,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one",ICTXHFFSOAJUMG-SLHNCBLASA-N
+68162-13-0,CC1=C2C=CC3=C(C2=C(C4=CC=CC=C14)C)C=C[C@@H]([C@H]3O)O,"Trans-7,12-Dimethylbenz(a)anthracene-3,4-dihydrodiol",Borrel,"(3S,4S)-7,12-dimethyl-3,4-dihydrobenzo[a]anthracene-3,4-diol",YZIIKMBFHLJAFT-ICSRJNTNSA-N
+68359-37-5,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)C1=CC=C(F)C(OC2=CC=CC=C2)=C1,Cyfluthrin,Borrel,"[cyano-(4-fluoro-3-phenoxyphenyl)methyl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate",QQODLKZGRKWIFG-UHFFFAOYSA-N
+684-93-5,CN(N=O)C(N)=O,N-Nitroso-N-methylurea,Borrel,1-methyl-1-nitrosourea,ZRKWMRDKSOPRRS-UHFFFAOYSA-N
+7008-42-6,COC1=CC2=C(C=CC(C)(C)O2)C2=C1C(=O)C1=C(C=CC=C1)N2C,Acronycine,Borrel,"6-methoxy-3,3,12-trimethylpyrano[2,3-c]acridin-7-one",SMPZPKRDRQOOHT-UHFFFAOYSA-N
+71-43-2,C1=CC=CC=C1,Benzene,Borrel,benzene,UHOVQNZJYSORNB-UHFFFAOYSA-N
+71-58-9,[H][C@@]12CC[C@](OC(C)=O)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)CC[C@]12C,Medroxyprogesterone acetate,Borrel,"[(6S,8R,9S,10R,13S,14S,17R)-17-acetyl-6,10,13-trimethyl-3-oxo-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-17-yl] acetate",PSGAAPLEWMOORI-PEINSRQWSA-N
+71133-14-7,OC(=O)C(Cl)(Cl)Br,Bromodichloroacetic acid,Borrel,"2-bromo-2,2-dichloroacetic acid",XSWVFEQKZFUULO-UHFFFAOYSA-N
+712-68-5,NC1=NN=C(S1)C1=CC=C(O1)[N+]([O-])=O,"2-Amino-5-(5-nitro-2-furyl)-1,3,4-thiadiazole",Borrel,"5-(5-nitrofuran-2-yl)-1,3,4-thiadiazol-2-amine",SXZZHGJWUBJKHH-UHFFFAOYSA-N
+71609-22-8,CC(=O)NC1=CC=C(C=C1)C1=CC=C(C=C1)N(O)C(C)=O,"N-Hydroxy-N,N'-diacetylbenzidine",Borrel,N-[4-[4-[acetyl(hydroxy)amino]phenyl]phenyl]acetamide,DPQGMVKYMDBTIA-UHFFFAOYSA-N
+72-33-3,COC1=CC2=C(C=C1)[C@H]1CC[C@@]3(C)[C@@H](CC[C@@]3(O)C#C)[C@@H]1CC2,Mestranol,Borrel,"(8R,9S,13S,14S,17R)-17-ethynyl-3-methoxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-ol",IMSSROKUHAOUJS-MJCUULBUSA-N
+720-69-4,NC1=NC(=NC(N)=N1)C1=CC=C(O1)[N+]([O-])=O,"4,6-Diamino-2-(5-nitro-2-furyl)-s-triazine",Borrel,"6-(5-nitrofuran-2-yl)-1,3,5-triazine-2,4-diamine",SUDMLGKFWIJSEI-UHFFFAOYSA-N
+72254-58-1,CC(O)=O.CC1=NC(N)=CC2=C1C1=C(N2)C=CC=C1,Trp-P-2 acetate,Borrel,"acetic acid;1-methyl-5H-pyrido[4,3-b]indol-3-amine",AASZBFHIHXZWRI-UHFFFAOYSA-N
+72479-23-3,CCN(N=O)C(=O)NC,1-Nitroso-1-ethyl-3-methylurea,Borrel,1-ethyl-3-methyl-1-nitrosourea,MQLQMSXXDOSWKY-UHFFFAOYSA-N
+732-11-6,COP(=S)(OC)SCN1C(=O)C2=C(C=CC=C2)C1=O,Phosmet,Borrel,"2-(dimethoxyphosphinothioylsulfanylmethyl)isoindole-1,3-dione",LMNZTLDVJIUSHT-UHFFFAOYSA-N
+7336-20-1,[Na+].[Na+].NC1=CC(=C(C=CC2=C(C=C(N)C=C2)S([O-])(=O)=O)C=C1)S([O-])(=O)=O,"4,4'-Diamino-2,2'-stilbenedisulfonic acid, disodium salt",Borrel,disodium;2-amino-5-[(E)-2-(4-amino-2-sulfonatophenyl)ethenyl]benzenesulfonate,YTBLSHUGVOUPFI-BFAXJPPBSA-L
+7496-02-8,[O-][N+](=O)C1=CC2=C(C=CC3=CC=CC=C23)C2=CC=CC=C12,6-Nitrochrysene,Borrel,6-nitrochrysene,UAWLTQJFZUYROA-UHFFFAOYSA-N
+75-01-4,ClC=C,Vinyl chloride,Borrel,chloroethene,BZHJMEDXRYGGRV-UHFFFAOYSA-N
+75-02-5,FC=C,Vinyl fluoride,Borrel,fluoroethene,XUCNUKMRBVNAPB-UHFFFAOYSA-N
+75-07-0,CC=O,Acetaldehyde,Borrel,acetaldehyde,IKHGUXGNUITLKF-UHFFFAOYSA-N
+75-09-2,ClCCl,Dichloromethane,Borrel,dichloromethane,YMWUJEATGCHHMB-UHFFFAOYSA-N
+75-21-8,C1CO1,Ethylene oxide,Borrel,oxirane,IAYPIBMASNFSPL-UHFFFAOYSA-N
+75-34-3,CC(Cl)Cl,"1,1-Dichloroethane",Borrel,"1,1-dichloroethane",SCYULBFZEHDVBN-UHFFFAOYSA-N
+75-35-4,ClC(Cl)=C,"1,1-Dichloroethylene",Borrel,"1,1-dichloroethene",LGXVIGDEPROXKC-UHFFFAOYSA-N
+75-52-5,C[N+]([O-])=O,Nitromethane,Borrel,nitromethane,LYGJENNIWJXYER-UHFFFAOYSA-N
+75-55-8,CC1CN1,Propyleneimine,Borrel,2-methylaziridine,OZDGMOYKSFPLSE-UHFFFAOYSA-N
+75-56-9,CC1CO1,"1,2-Propylene oxide",Borrel,2-methyloxirane,GOOHAUXETOMSMM-UHFFFAOYSA-N
+75198-31-1,[O-][N+](=O)C1=CC=C(O1)C1=CN=C2C=CC=CN12,"3-(5-Nitro-2-furyl)-imidazo(1,2-alpha) pyridine",Borrel,"3-(5-nitrofuran-2-yl)imidazo[1,2-a]pyridine",ZDFULRQJRIJLRF-UHFFFAOYSA-N
+75321-20-9,[O-][N+](=O)C1=CC(=C2C=CC3=CC=CC4=CC=C1C2=C34)[N+]([O-])=O,"1,3-Dinitropyrene",Borrel,"1,3-dinitropyrene",KTNUVDBUEAQUON-UHFFFAOYSA-N
+75443-72-0,C1=CC=C2C(=C1)C=CC3=C2C4=C(C=C3)[C@H]([C@@H]([C@H]5[C@@H]4O5)O)O,"Anti-3,4-Dihydroxy-1,2-epoxy-1,2,3,4-tetrahydrobenzo(c)phenanthrene",Borrel,"(3R,5S,6S,7R)-4-oxapentacyclo[9.8.0.02,8.03,5.014,19]nonadeca-1(11),2(8),9,12,14,16,18-heptaene-6,7-diol",QGMAOLZIDYVIDK-XDNAFOTISA-N
+759-73-9,CCN(N=O)C(N)=O,1-Ethyl-1-nitrosourea,Borrel,1-ethyl-1-nitrosourea,FUSGACRLAFQQRL-UHFFFAOYSA-N
+76-06-2,[O-][N+](=O)C(Cl)(Cl)Cl,Trichloronitromethane,Borrel,trichloro(nitro)methane,LFHISGNCFUNFFM-UHFFFAOYSA-N
+760-56-5,NC(=O)N(CC=C)N=O,1-Allyl-1-nitrosourea,Borrel,1-nitroso-1-prop-2-enylurea,WBBDVRPSJSJSPC-UHFFFAOYSA-N
+76180-96-6,CN1C(N)=NC2=C1C=CC1=C2C=CC=N1,"2-Amino-3-methyl-3H-imidazo[4,5-f]quinoline",Borrel,"3-methylimidazo[4,5-f]quinolin-2-amine",ARZWATDYIYAUTA-UHFFFAOYSA-N
+7632-00-0,[Na+].[O-]N=O,Sodium nitrite,Borrel,sodium;nitrite,LPXPTNMVRIOKMN-UHFFFAOYSA-M
+77-46-3,CC(=O)NC1=CC=C(C=C1)S(=O)(=O)C1=CC=C(NC(C)=O)C=C1,"4,4'-Sulfonylbisacetanilide",Borrel,N-[4-(4-acetamidophenyl)sulfonylphenyl]acetamide,AMTPYFGPPVFBBI-UHFFFAOYSA-N
+77094-11-2,CN1C(N)=NC2=C1C(C)=CC1=NC=CC=C21,MeIQ,Borrel,"3,4-dimethylimidazo[4,5-f]quinolin-2-amine",GMGWMIJIGUYNAY-UHFFFAOYSA-N
+77439-76-0,OC1OC(=O)C(Cl)=C1C(Cl)Cl,3-Chloro-4-(dichloromethyl)-5-hydroxy-2(5H)-furanone,Borrel,4-chloro-3-(dichloromethyl)-2-hydroxy-2H-furan-5-one,WNTRMRXAGJOLCU-UHFFFAOYSA-N
+77500-04-0,CN1C(N)=NC2=C1C=CC1=NC=C(C)N=C21,MeIQx,Borrel,"3,8-dimethylimidazo[4,5-f]quinoxalin-2-amine",DVCCCQNKIYNAKB-UHFFFAOYSA-N
+78-79-5,CC(=C)C=C,Isoprene,Borrel,"2-methylbuta-1,3-diene",RRHGJUQNOFWUDK-UHFFFAOYSA-N
+78-87-5,CC(Cl)CCl,"1,2-Dichloropropane",Borrel,"1,2-dichloropropane",KNKRKFALVUDBJE-UHFFFAOYSA-N
+78587-05-0,C[C@H]1[C@@H](SC(=O)N1C(=O)NC1CCCCC1)C1=CC=C(Cl)C=C1,Hexythiazox,Borrel,"(4S,5S)-5-(4-chlorophenyl)-N-cyclohexyl-4-methyl-2-oxo-1,3-thiazolidine-3-carboxamide",XGWIJUOSCAQSSV-XHDPSFHLSA-N
+79-01-6,ClC=C(Cl)Cl,Trichloroethylene,Borrel,"1,1,2-trichloroethene",XSTXAVWGXDQKEL-UHFFFAOYSA-N
+79-06-1,NC(=O)C=C,Acrylamide,Borrel,prop-2-enamide,HRPVXLWXLXDGHG-UHFFFAOYSA-N
+8015-12-1, ,Norlestrin,Borrel,"(8R,9S,13S,14S,17R)-17-ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthrene-3,17-diol;[(8R,9S,10R,13S,14S,17R)-17-ethynyl-13-methyl-3-oxo-1,2,6,7,8,9,10,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-17-yl] acetate",GEONECATAKDDLT-JDSZYESASA-N
+82617-23-0,OC(=N)OC1CO1,Oxiran-2-yl hydrogen carbonimidate,Borrel,oxiran-2-yl carbamate,PSNIYGKWARCUAN-UHFFFAOYSA-N
+83349-67-1,C1=CC=C2C(=C1)C3=C4[C@@]25[C@@H](O5)C(C(C4=CC=C3)O)O,"Anti-1,2,3,10b-tetrahydrofluoranthene-2,3-diol 1,10b-oxide",Borrel,"(1R,3S)-2-oxapentacyclo[8.6.1.01,3.06,17.011,16]heptadeca-6,8,10(17),11,13,15-hexaene-4,5-diol",XFISQOLBVZLENT-SSHXOBKSSA-N
+834-12-8,CCNC1=NC(SC)=NC(NC(C)C)=N1,Ametryn,Borrel,"4-N-ethyl-6-methylsulfanyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",RQVYBGPQFYCBGX-UHFFFAOYSA-N
+834-24-2,NC1=CC=C(C=CC2=CC=CC=C2)C=C1,4-aminostilbene,Borrel,4-[(E)-2-phenylethenyl]aniline,VFPLSXYJYAKZCT-VOTSOKGWSA-N
+838-88-0,CC1=C(N)C=CC(CC2=CC(C)=C(N)C=C2)=C1,"4,4'-Methylenebis(o-toluidine)",Borrel,4-[(4-amino-3-methylphenyl)methyl]-2-methylaniline,WECDUOXQLAIPQW-UHFFFAOYSA-N
+843-23-2,CC(=O)N(O)C1=CC=C(\C=C\C2=CC=CC=C2)C=C1,trans-N-Hydroxy-4-acetylaminostilbene,Borrel,N-hydroxy-N-[4-[(E)-2-phenylethenyl]phenyl]acetamide,RWXNJPBIVZZSQA-BQYQJAHWSA-N
+869-01-2,CCCCN(N=O)C(N)=O,N-Butyl-N-nitrosourea,Borrel,1-butyl-1-nitrosourea,LSWOCDLIYSKTRX-UHFFFAOYSA-N
+87625-62-5,[H][C@]12C(=O)[C@H](C)C[C@@]1(O[C@]1([H])O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C=C(C)C1(CC1)[C@@]2(C)O,Ptaquiloside,Borrel,"(2R,3aR,7S,7aR)-7-hydroxy-2,5,7-trimethyl-3a-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyspiro[3,7a-dihydro-2H-indene-6,1'-cyclopropane]-1-one",GPHSJPVUEZFIDE-YVPLJZHISA-N
+88-72-2,CC1=CC=CC=C1[N+]([O-])=O,2-Nitrotoluene,Borrel,1-methyl-2-nitrobenzene,PLAZTCDQAHEYBI-UHFFFAOYSA-N
+88133-11-3,CCOCCC1=C(N=C(N)N2N=CN=C12)C1=CC=CC=C1,Bemitradine,Borrel,"8-(2-ethoxyethyl)-7-phenyl-[1,2,4]triazolo[1,5-c]pyrimidin-5-amine",OZSPQIXKOVJJGE-UHFFFAOYSA-N
+91-94-1,NC1=C(Cl)C=C(C=C1)C1=CC(Cl)=C(N)C=C1,"3,3'-Dichlorobenzidine",Borrel,4-(4-amino-3-chlorophenyl)-2-chloroaniline,HUWXDEQWWKGHRV-UHFFFAOYSA-N
+92-67-1,NC1=CC=C(C=C1)C1=CC=CC=C1,4-Biphenylamine,Borrel,4-phenylaniline,DMVOXQPQNTYEKQ-UHFFFAOYSA-N
+92-87-5,NC1=CC=C(C=C1)C1=CC=C(N)C=C1,C.I. Azoic Diazo Component 112,Borrel,4-(4-aminophenyl)aniline,HFACYLZERDEVSX-UHFFFAOYSA-N
+93-15-2,COC1=CC=C(CC=C)C=C1OC,Methyleugenol,Borrel,"1,2-dimethoxy-4-prop-2-enylbenzene",ZYEMGPIYFIJGTP-UHFFFAOYSA-N
+95-06-7,CCN(CC)C(=S)SCC(Cl)=C,Sulfallate,Borrel,"2-chloroprop-2-enyl N,N-diethylcarbamodithioate",XJCLWVXTCRQIDI-UHFFFAOYSA-N
+95-53-4,CC1=C(N)C=CC=C1,2-Methylaniline,Borrel,2-methylaniline,RNVCVTLRINQCPJ-UHFFFAOYSA-N
+95-80-7,CC1=C(N)C=C(N)C=C1,"2,4-Diaminotoluene",Borrel,"4-methylbenzene-1,3-diamine",VOZKAJLKRJDJLL-UHFFFAOYSA-N
+96-09-3,C1OC1C1=CC=CC=C1,Styrene oxide,Borrel,2-phenyloxirane,AWMVMTVKBNGEAK-UHFFFAOYSA-N
+96-12-8,ClCC(Br)CBr,"1,2-Dibromo-3-chloropropane",Borrel,"1,2-dibromo-3-chloropropane",WBEJYOJJBDISQU-UHFFFAOYSA-N
+96-13-9,OCC(Br)CBr,"2,3-Dibromopropanol",Borrel,"2,3-dibromopropan-1-ol",QWVCIORZLNBIIC-UHFFFAOYSA-N
+96-18-4,ClCC(Cl)CCl,"1,2,3-Trichloropropane",Borrel,"1,2,3-trichloropropane",CFXQEHVMCRXUSD-UHFFFAOYSA-N
+96724-44-6,CCN(N=O)C(=O)NCCO,1-Ethylnitroso-3-(2-hydroxyethyl)urea,Borrel,1-ethyl-3-(2-hydroxyethyl)-1-nitrosourea,RXXXJEQCRPLSOQ-UHFFFAOYSA-N
+96724-45-7,CCNC(=O)N(CCO)N=O,1-(2-Hydroxyethyl)-nitroso-3-ethylurea,Borrel,3-ethyl-1-(2-hydroxyethyl)-1-nitrosourea,WOEOEFXOZUBXMR-UHFFFAOYSA-N
+97-54-1,COC1=CC(C=CC)=CC=C1O,Isoeugenol,Borrel,2-methoxy-4-[(E)-prop-1-enyl]phenol,BJIOGJUNALELMI-ONEGZZNKSA-N
+97-56-3,CC1=CC=CC=C1N=NC1=CC(C)=C(N)C=C1,o-Aminoazotoluene,Borrel,2-methyl-4-[(2-methylphenyl)diazenyl]aniline,PFRYFZZSECNQOL-UHFFFAOYSA-N
+979-32-8,CCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(O)=CC=C4[C@H]3CC[C@]12C,Estradiol valerate,Borrel,"[(8R,9S,13S,14S,17S)-3-hydroxy-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthren-17-yl] pentanoate",RSEPBGGWRJCQGY-RBRWEJTLSA-N
+98-95-3,[O-][N+](=O)C1=CC=CC=C1,Nitrobenzene,Borrel,nitrobenzene,LQNUZADURLCDLV-UHFFFAOYSA-N
+99-59-2,COC1=C(N)C=C(C=C1)[N+]([O-])=O,5-Nitro-o-anisidine,Borrel,2-methoxy-5-nitroaniline,NIPDVSLAMPAWTP-UHFFFAOYSA-N
+NOCAS_24069,"CC1=CC=CC=C1[N+]([O-])=O.[O-][N+](*)=O |c:3,5,t:1,lp:8:3,9:2,10:3,13:2,m:12:2.4|","2,4-/2,6-Dinitrotoluene mixture",Borrel,,
+81-11-8,CC(=C)C(=O)OCC1CO1,Amsonic acid,Rudel,5-amino-2-[(E)-2-(4-amino-2-sulfophenyl)ethenyl]benzenesulfonic acid,REJHVSOVQBJEBF-OWOJBTEDSA-N
+2437-29-8,C1=CC=C(C=C1)/C=C/C2=CC=C(C=C2)N(C=O)O,Malachite green,Rudel,"[4-[[4-(dimethylamino)phenyl]-phenylmethylidene]cyclohexa-2,5-dien-1-ylidene]-dimethylazanium;2-hydroxy-2-oxoacetate;oxalic acid",CNYGFPPAGUCRIC-UHFFFAOYSA-L
+,,Magnetic fields,Rudel,,
+25962-77-0,C1C=CCC2C1C(=O)N(C2=O)SC(C(Cl)Cl)(Cl)Cl,"trans-2-[(Dimethylamino)methylimino]-5-[2-(5-nitro-2-furyl)vinyl]-1,3,4-oxadiazole",Rudel,"N,N-dimethyl-N'-[5-[(E)-2-(5-nitrofuran-2-yl)ethenyl]-1,3,4-oxadiazol-2-yl]methanimidamide",QLKWZSDBTUTCIJ-PPRDQHCASA-N

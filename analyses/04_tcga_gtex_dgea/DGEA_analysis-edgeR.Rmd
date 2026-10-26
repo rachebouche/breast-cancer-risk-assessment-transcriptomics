@@ -1,0 +1,77 @@
+---
+title: "Differential expression: TCGA-BRCA tumours vs GTEx normal breast"
+author: "Rayane Achebouche"
+date: "2024-04-12"
+output: html_document
+---
+
+Quasi-likelihood F-test (edgeR) between TCGA-BRCA primary tumours and GTEx
+normal breast tissue, on the harmonised count matrix produced by
+`DGEA_preprocess.Rmd`.
+
+Writes `DGEA_edgeR_QLF_all.csv`, the table read by
+`tissue_enrichment_umap.ipynb` and by `analyses/05_cell_to_tissue/`.
+
+```{r setup}
+knitr::opts_knit$set(root.dir = "../../data/external/TCGA/DGEA_Protocol")
+```
+
+```{r libraries, message=FALSE}
+library(dplyr)
+library(edgeR)
+```
+
+## Count matrix
+
+The preprocessed file holds log2(expected count + 1) values, so counts are
+back-transformed before being handed to edgeR, which models raw counts.
+The first 178 columns are the GTEx normal samples, the rest the TCGA tumours.
+
+```{r counts}
+exprFinal <- read.csv("ExpressionProfiles_GTEX-TCGA.csv")
+exprBT <- exprFinal[, -c(1:3)]
+rownames(exprBT) <- exprFinal$gene
+exprBT <- round((2^exprBT) - 1, 0)
+
+N_NORMAL <- 178
+group <- factor(c(rep(0, N_NORMAL), rep(1, ncol(exprBT) - N_NORMAL)))
+stopifnot(length(group) == ncol(exprBT))
+
+y <- DGEList(counts = exprBT, group = group)
+```
+
+## Filtering, normalisation, dispersion
+
+```{r filter-normalise}
+keep <- filterByExpr(y)
+y <- y[keep, , keep.lib.sizes = FALSE]
+y <- normLibSizes(y)
+
+design <- model.matrix(~group)
+y <- estimateDisp(y, design = design)
+plotBCV(y)
+```
+
+## Test and results
+
+```{r test}
+fit <- glmQLFit(y, design = design)
+plotQLDisp(fit)
+lrt <- glmQLFTest(fit, coef = 2)
+plotMD(lrt)
+```
+
+The z-score is the logFC standardised across genes; it is the quantity used
+downstream to call a gene deregulated (`|z| > 2`), on the same scale as the
+L1000 signature z-scores.
+
+```{r results}
+results <- topTags(lrt, n = Inf)$table
+results$gene <- rownames(results)
+results$z_score <- scale(results$logFC)
+results$group <- "All Patho Stages"
+results <- results %>% select(gene, everything())
+
+head(results)
+write.csv(results, "../../DGEA_TCGA_GTEX/DGEA_edgeR_QLF_all.csv")
+```

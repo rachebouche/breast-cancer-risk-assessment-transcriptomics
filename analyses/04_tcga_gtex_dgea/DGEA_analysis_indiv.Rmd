@@ -1,0 +1,73 @@
+---
+title: "Per-tumour differential expression"
+author: "Rayane Achebouche"
+date: "2025-02-07"
+output: html_document
+---
+
+Repeats the tumour-vs-normal comparison **one tumour at a time**: each of the
+1,092 TCGA-BRCA primary tumours is tested against the whole set of GTEx normal
+breast samples. This gives a per-patient deregulation profile, which is what
+`analyses/05_cell_to_tissue/` compares with the compound signatures (Figure 5).
+
+Writes one file per tumour into `../../data/external/DGE_results_indiv/`
+(1,092 files, ~2.2 GB — not tracked by git).
+
+⚠️ A single-tumour design has no replication on the tumour side: the dispersion
+is estimated from the normal samples alone. The resulting statistics are used as
+a *ranking* of genes within each tumour, not as calibrated p-values.
+
+```{r libraries, message=FALSE}
+library(dplyr)
+library(edgeR)
+```
+
+## Count matrix
+
+```{r counts}
+exprFinal <- read.csv("../../data/external/TCGA/DGEA_Protocol/ExpressionProfiles_GTEX-TCGA.csv")
+exprBT <- exprFinal[, -c(1:3)]
+rownames(exprBT) <- exprFinal$gene
+exprBT <- round((2^exprBT) - 1, 0)
+
+exprBT_GTEX <- exprBT[, startsWith(names(exprBT), "GTEX")]
+exprBT_TCGA <- exprBT[, startsWith(names(exprBT), "TCGA")]
+
+cat(ncol(exprBT_GTEX), "normal samples,", ncol(exprBT_TCGA), "tumours\n")
+```
+
+## One comparison per tumour
+
+```{r function}
+# All GTEx samples as group 0, the single tumour as group 1.
+group <- as.factor(c(rep(0, ncol(exprBT_GTEX)), 1))
+
+dgea_one_tumour <- function(counts, group) {
+  y <- DGEList(counts = counts, group = group)
+  keep <- filterByExpr(y, group = group)
+  y <- y[keep, , keep.lib.sizes = FALSE]
+  y <- normLibSizes(y)
+
+  design <- model.matrix(~group)
+  y <- estimateDisp(y, design = design)
+  fit <- glmQLFit(y, design = design)
+  lrt <- glmQLFTest(fit, coef = 2)
+
+  results <- topTags(lrt, n = Inf)$table
+  results$gene <- rownames(results)
+  results$z_score <- scale(results$logFC)
+  results %>% select(gene, everything())
+}
+```
+
+```{r run, eval=FALSE}
+# Long: one edgeR fit per tumour. Set eval=TRUE to regenerate.
+outdir <- "../../data/external/DGE_results_indiv"
+dir.create(outdir, showWarnings = FALSE, recursive = TRUE)
+
+for (i in seq_along(names(exprBT_TCGA))) {
+  counts <- cbind(exprBT_GTEX, exprBT_TCGA[i])
+  results <- dgea_one_tumour(counts, group)
+  write.csv(results, file.path(outdir, paste0("results_", names(exprBT_TCGA)[i], ".csv")))
+}
+```
